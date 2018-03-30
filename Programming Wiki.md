@@ -48,6 +48,10 @@
 
 * [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
 
+* [Awesome Python](https://github.com/vinta/awesome-python)
+
+  A curated list of awesome Python frameworks, libraries, software and resources.
+
 #### **Online courses:**
 
 * [Udemy - Python Course](https://www.udemy.com/python-for-absolute-beginners-u/)
