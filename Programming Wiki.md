@@ -8,19 +8,19 @@
 
 [A bunch of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c) - free books for every language you can think of.
 
-### **Programming Project and Practice Lists:**
+#### **Programming Project and Practice Lists:**
 
 [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
 
 [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
-[	Karan Mega Project List from github](https://github.com/karan/Projects)
+[Karan Mega Project List from github](https://github.com/karan/Projects)
 
-[	Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+[Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
-[	Stanford's Nifty Assignments](http://nifty.stanford.edu/)
+[Stanford's Nifty Assignments](http://nifty.stanford.edu/)
 
-[	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
+[Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
 
 #### **Computer Science Courses:**
 
@@ -84,7 +84,7 @@
 
 #### **General Resources:**
 
-[ Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
+[Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
 
 [ASIC WORLD Verilog](http://www.asic-world.com/verilog/index.html)
 
