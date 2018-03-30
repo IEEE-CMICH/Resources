@@ -10,7 +10,7 @@
 
 #### **Programming Project and Practice Lists:**
 
-  [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
+  [IEEEXtereme Practice Tasks](https://csacademy.com/ieeextreme-practice/tasks/)
 
   [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
