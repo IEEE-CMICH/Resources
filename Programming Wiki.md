@@ -22,7 +22,7 @@
 
 [	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
 
-## **Computer Science Courses:**
+#### **Computer Science Courses:**
 
 [Open Source Society University - Computer Science](https://github.com/ossu/computer-science) - Also has links to many different topics some outside of programming.
 
