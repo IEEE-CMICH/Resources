@@ -1,20 +1,20 @@
-# **Projects:**
+## **Projects:**
 
-## **Sorted and curated Project Lists:**
+### **Sorted and curated Project Lists:**
 
-### **Tutorials:**
+#### **Tutorials:**
 
 [Built In Examples/Tutorials of Arduino](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
 [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/) - has basic tutorials
 
-### **Easy:**
+#### **Easy:**
 
-### **Medium:**
+#### **Medium:**
 
-### **Hard:**
+#### **Hard:**
 
-### **VERY HARD?:**
+#### **VERY HARD?:**
 
 [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
 
@@ -22,11 +22,11 @@
 
 [DIY Sphere Robot](http://www.instructables.com/id/DIY-Sphere-Robot/)
 
-### **Learn things or Know Things:**
+#### **Learn things or Know Things:**
 
 [MIT build a small radar system capable of sensing range, doppler, etc](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
 
-### **To Sort:**
+#### **To Sort:**
 
 [Obstacle avoiding robot arduino](https://www.electronicshub.org/obstacle-avoiding-robot-arduino/)
 
@@ -58,7 +58,7 @@
 
 [The Arduino Synthesizer](http://www.instructables.com/id/The-Arduino-Synthesizer/)
 
-### **Un-sorted Project Lists:**
+#### **Un-sorted Project Lists:**
 
 [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
@@ -82,6 +82,6 @@
 
 [Electronics Hub - project ideas](https://www.electronicshub.org/electronics-projects-ideas/)
 
-### **Paid:**
+#### **Paid:**
 
 [Contextual Electronics](https://contextualelectronics.com/) - Paided PCB layout video courses, One simple one is free
