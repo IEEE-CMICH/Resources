@@ -36,7 +36,7 @@
 
   Also has links to many different topics some outside of programming.
 
-## **Python: General Purpose Language **
+## **Python: General Purpose Language**
 
 #### **General Resources:**
 
