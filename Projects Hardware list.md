@@ -1,12 +1,12 @@
 ## **Projects:**
-
+Refer to the links below for project inspiration. 
 ### **Sorted and curated Project Lists:**
 
 #### **Tutorials:**
 
-[Built In Examples/Tutorials of Arduino](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
+* [Built In Examples/Tutorials of Arduino](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
-[101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/) - has basic tutorials
+* [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/) - has basic tutorials
 
 #### **Easy:**
 
@@ -14,17 +14,17 @@
 
 #### **Hard:**
 
-#### **VERY HARD?:**
+#### **VERY HARD:**
 
-[Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
+* [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
 
-[QUATTRO the Arduino Quadruped Robot](http://www.instructables.com/id/QUATTRO-the-Arduino-Quadruped-Robot/)
+* [QUATTRO the Arduino Quadruped Robot](http://www.instructables.com/id/QUATTRO-the-Arduino-Quadruped-Robot/)
 
-[DIY Sphere Robot](http://www.instructables.com/id/DIY-Sphere-Robot/)
+* [DIY Sphere Robot](http://www.instructables.com/id/DIY-Sphere-Robot/)
 
-#### **Learn things or Know Things:**
+#### **Advance/You're going to have to learn some things:**
 
-[MIT build a small radar system capable of sensing range, doppler, etc](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
+* [MIT build a small radar system capable of sensing range, doppler, etc](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
 
 #### **To Sort:**
 
@@ -60,28 +60,34 @@
 
 #### **Un-sorted Project Lists:**
 
-[Arduino Project Hub](https://create.arduino.cc/projecthub)
+* [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
-[hackaday.io - Projects](https://hackaday.io/projects)
+* [hackaday.io - Projects](https://hackaday.io/projects)
 
-[GreatScott! Electronics Projects - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7dGPxb9CFtxwbgzLNaaj1Oe)
+* [GreatScott! Electronics Projects - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7dGPxb9CFtxwbgzLNaaj1Oe)
 
-[GreatScott! Electronics Basics - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
+* [GreatScott! Electronics Basics - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
 
-[101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/)
+* [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/)
 
-[Adafruit Raspberry Pi](https://learn.adafruit.com/category/raspberry-pi)
+* [Adafruit Raspberry Pi](https://learn.adafruit.com/category/raspberry-pi)
 
-[Adafruit Arduino](https://learn.adafruit.com/category/arduino)
+* [Adafruit Arduino](https://learn.adafruit.com/category/arduino)
 
-[Instructables - Arduino Projects](http://www.instructables.com/id/Arduino-Projects/)
+* [Instructables - Arduino Projects](http://www.instructables.com/id/Arduino-Projects/)
 
-[Instructables - Raspberry Pi Projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
+  Instructables has much more then just this one link to it.
 
-[Electronics Hub - arduino project ideas](https://www.electronicshub.org/arduino-project-ideas/)
+* [Instructables - Raspberry Pi Projects](http://www.instructables.com/id/Raspberry-Pi-Projects/)
 
-[Electronics Hub - project ideas](https://www.electronicshub.org/electronics-projects-ideas/)
+  Instructables has much more then just this one link to it.
+
+* [Electronics Hub - arduino project ideas](https://www.electronicshub.org/arduino-project-ideas/)
+
+* [Electronics Hub - project ideas](https://www.electronicshub.org/electronics-projects-ideas/)
 
 #### **Paid:**
 
-[Contextual Electronics](https://contextualelectronics.com/) - Paided PCB layout video courses, One simple one is free
+* [Contextual Electronics](https://contextualelectronics.com/)
+
+  Paid PCB layout video courses. There is a free course on the site called Getting to Blinky 4.0
