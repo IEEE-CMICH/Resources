@@ -1,0 +1,27 @@
+#include <iostream>
+#include <cstdlib>
+#include <ctime>
+
+using namespace std;
+
+int main()
+{
+	int i, n, a, b;
+	double count=0;
+	cout << "Enter the number of times you want to roll the die. \n";
+	cin >> n;
+	for (i = 1; i < n; i++)
+	{
+		a = (rand() % 6) +1;
+		b = (rand() % 6) +1;
+		
+		if (a == 6 && b == 6)
+		count++;
+		
+ 
+ 	}
+	cout << count++ / 36 << endl;
+	
+	system("pause");
+	return 0;
+}
