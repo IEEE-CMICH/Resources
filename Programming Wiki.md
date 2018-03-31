@@ -70,6 +70,12 @@
 
 * [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
+  Basic Python
+  
+* [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
+  
+  Intermediate Python
+
 #### **Python Class outlines:**
 
 * [Python Training Class](https://github.com/girisagar46/PythonTrainingClass) 
