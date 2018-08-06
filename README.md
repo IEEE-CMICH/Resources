@@ -6,3 +6,7 @@ Reasourses, project lists, and programming help for members to use.
 [Programming Wiki](https://github.com/IEEE-CMICH/Reasources/blob/master/Programming%20Wiki.md)
 
 [Projects/Hardware list](https://github.com/IEEE-CMICH/Reasources/blob/master/Projects%20Hardware%20list.md)
+
+#### Install and setup Python and PyCharm
+
+[Python and PyCharm installation](https://github.com/IEEE-CMICH/Reasources/blob/master/Python%20install.md)
