@@ -30,6 +30,8 @@
 
 * [	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
 
+* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+
 #### **Computer Science Courses:**
 
 * [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
