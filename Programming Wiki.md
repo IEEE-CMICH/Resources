@@ -54,8 +54,6 @@
 
 #### **Online courses:**
 
-* [Udemy - Python Course](https://www.udemy.com/python-for-absolute-beginners-u/)
-
 * [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
 
   part 1, part 2 is below
