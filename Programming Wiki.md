@@ -1,159 +1,210 @@
-## **General Programming Topics:**
+# General Programming Topics:
 
-* [Reddit - r/LearnProgramming wiki/faq](https://www.reddit.com/r/learnprogramming/wiki/faq)
+-   [Reddit - r/LearnProgramming wiki/faq](https://www.reddit.com/r/learnprogramming/wiki/faq)
 
-  This is a good resource and FAQ. It will answer many questions and lead the way for people to learn how to program.
+    This is a good resource and FAQ. It will answer many questions and lead the way for people to learn how to program.
 
-* [IEEExtreme](http://ieeextreme.org/)
+-   [IEEExtreme](http://ieeextreme.org/)
 
-  IEEE 24 hour programming competition for students.
+    IEEE 24 hour programming competition for students.
 
-* [Michael0x2a - Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
+-   [Michael0x2a - Curated Programming Resources](https://github.com/Michael0x2a/curated-programming-resources/blob/master/resources.md)
 
-  MOOCS, Free courses, books, etc.
+    MOOCS, Free courses, books, etc.
 
-* [A bunch of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
+-   [A bunch of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
 
-  free books for every language you can think of.
+    free books for every language you can think of.
 
-#### **Programming Project and Practice Lists:**
+#### Programming Project and Practice Lists:
 
-* [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
+-   [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
 
-* [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
+-   [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
-* [	Karan Mega Project List from github](https://github.com/karan/Projects)
 
-* [	Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+-   [	Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
-* [	Stanford's Nifty Assignments](http://nifty.stanford.edu/)
+-   [	Stanford's Nifty Assignments](http://nifty.stanford.edu/)
 
-* [	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
+-   [	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
 
-* [Project Based Learning](https://github.com/tuvtran/project-based-learning)
+-   [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
-#### **Computer Science Courses:**
+    Has programming projects ideas/tutorials for 18 programming languages. Very good resource for learning python, C, C++, JAVA, etc.
 
-* [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
+-   [Karan Mega Project List from github](https://github.com/karan/Projects)
 
-  Also has links to many different topics some outside of programming.
+#### Computer Science Courses:
 
-## **Python: General Purpose Language**
+-   [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
 
-#### **General Resources:**
+    Also has links to many different topics some outside of programming.
 
-* [Python 3.6 Docs](https://docs.python.org/3/)
+## Python: General Purpose Language
 
-* [Reddit - r/LearnPython/wiki](https://www.reddit.com/r/learnpython/wiki/index)
+#### General Resources:
 
-  Another good resource and FAQ for python.
+-   [Python 3.6 Docs](https://docs.python.org/3/)
 
-* [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
+    make sure to use the Docs for whatever version of python you are running.
 
-* [Awesome Python](https://github.com/vinta/awesome-python)
+-   [Reddit - r/LearnPython/wiki](https://www.reddit.com/r/learnpython/wiki/index)
 
-  A curated list of awesome Python frameworks, libraries, software and resources.
+    Another good resource and FAQ for python.
 
-#### **Online courses:**
+-   [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
 
-* [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11) 
+-   [Awesome Python](https://github.com/vinta/awesome-python)
 
-  part 1, part 2 is below
+    A curated list of awesome Python frameworks, libraries, software and resources.
 
-* [Mitx - Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
+#### Online courses:
 
-  part 2 of above
+-   [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
-#### **Youtube series:**
+    part 1, part 2 is below
 
-* [Thenewboston](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
+-   [Mitx - Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-6)
 
-* [Sentdex](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
+    part 2 of above
 
-  Basic Python
-  
-* [Sentdex](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
-  
-  Intermediate Python
+-   [Intermediate Python](http://book.pythontips.com/en/latest/)
 
-#### **Python Class outlines:**
+#### Youtube series:
 
-* [Python Training Class](https://github.com/girisagar46/PythonTrainingClass) 
+-   [Thenewboston](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
-  More of a class layout but if you are the type to teach yourself this may be good.
+-   [Sentdex - Basic Python](https://www.youtube.com/watch?v=oVp1vrfL_w4&list=PLQVvvaa0QuDe8XSftW-RAxdo6OmaeL85M)
 
-#### **Web Resources:**
 
-* [Intro to Python](https://overiq.com/python/3.4/intro-to-python/)
+-   [Sentdex - Intermediate Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
 
-* [Intermediate Python](http://book.pythontips.com/en/latest/)
+#### Python Class outlines:
 
-#### **Python Libraries:**
+-   [Python Training Class](https://github.com/girisagar46/PythonTrainingClass)
 
-* [Matplotlib tutorial](https://www.dataquest.io/blog/matplotlib-tutorial/)
+#### Web Resources:
 
-## **The C programming Language:**
+-   [Intro to Python](https://overiq.com/python/3.4/intro-to-python/)
 
-#### **Online Courses:**
+#### Python Libraries:
 
-* [MIT opencourseware - Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
+-   [Matplotlib tutorial](https://www.dataquest.io/blog/matplotlib-tutorial/)
 
-  For beginners.
+## The C programming Language:
 
-* [MIT opencourseware - Introduction to C Memory Management and C++ OO Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
+#### Online Courses:
 
-  Part 2 of above, or for non-beginners
+-   [MIT opencourseware - Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
 
-* [MIT opencourseware - Effective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
+    For beginners.
 
-  like previous 2 (newer)
+-   [MIT opencourseware - Introduction to C Memory Management and C++ OO Programming](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-088-introduction-to-c-memory-management-and-c-object-oriented-programming-january-iap-2010/)
 
-#### **Web Books:**
+    Part 2 of above, or for non-beginners
 
-* [Learn C by building Lisp language interpreter](http://www.buildyourownlisp.com/)
+-   [MIT opencourseware - Effective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
 
-* [C Programming - Wikibooks](https://en.wikibooks.org/wiki/C_Programming) - This is good
+    like previous 2 (newer)
 
-## **Verilog: Hardware Description Language**
+#### Web Books:
 
-#### **General Resources:**
+-   [Learn C by building Lisp language interpreter](http://www.buildyourownlisp.com/)
 
-* [ Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
+-   [C Programming - Wikibooks](https://en.wikibooks.org/wiki/C_Programming) - This is good
 
-* [ASIC WORLD Verilog](http://www.asic-world.com/verilog/index.html)
+## MATLAB: Numerical Computing
 
-## **MATLAB: Numerical Computing**
+-   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/%7Ejcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
 
-* [An Interactive Introduction to MATLAB](http://www.science.smith.edu/%7Ejcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
+-   [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
 
-* [An Introduction to MATLAB](http://www.maths.dundee.ac.uk/software/MatlabNotes.pdf) (PDF)
+-   [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
 
-* [Applications of MATLAB in Science and Engineering](http://www.intechopen.com/books/applications-of-matlab-in-science-and-engineering)
+-   [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com&nocookie=true)
 
-* [Experiments with MATLAB](http://www.mathworks.com/moler/exm/index.html?requestedDomain=www.mathworks.com&nocookie=true)
+-   [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
 
-* [Freshman Engineering Problem Solving with MATLAB](http://cnx.org/featureContent/mfiles)
+-   [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
 
-* [Interactive Tutorials for MATLAB, Simulink, Signal Processing, Controls, and Computational Mathematics](http://www.mathworks.com/tutorials)
+-   [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
 
-* [MATLAB - A Fundamental Tool for Scientific Computing and Engineering Applications - Volume 1](http://www.intechopen.com/books/matlab-a-fundamental-tool-for-scientific-computing-and-engineering-applications-volume-1)
+-   [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
 
-* [MATLAB - A Ubiquitous Tool for the Practical Engineer](http://www.intechopen.com/books/matlab-a-ubiquitous-tool-for-the-practical-engineer)
+-   [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
 
-* [MATLAB for Engineers: Applications in Control, Electrical Engineering, IT and Robotics](http://www.intechopen.com/books/matlab-for-engineers-applications-in-control-electrical-engineering-it-and-robotics)
+-   [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming)
 
-* [MATLAB Programming](https://en.wikibooks.org/wiki/MATLAB_Programming)
+-   [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab)
 
-* [MATLAB Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/matlab)
+    (PDF, Kindle) (Just fill the fields with any values)
 
-  (PDF, Kindle) *(Just fill the fields with any values)*
+-   [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
 
-* [Numerical Computing with MATLAB](http://www.mathworks.com/moler/index_ncm.html?requestedDomain=www.mathworks.com&nocookie=true)
+-   [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
 
-* [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
+## ARM Assembly:
 
-## **ARM Assembly:**
+-   <https://azeria-labs.com/>
 
-* [https://azeria-labs.com/](https://azeria-labs.com/)
+-   <https://www.coranac.com/tonc/text/asm.htm>
 
-* [https://www.coranac.com/tonc/text/asm.htm](https://www.coranac.com/tonc/text/asm.htm)
+# Hardware Description Languages / FPGA's
+
+#### General Resources/Articles:
+
+-   [zipcpu.com](http://zipcpu.com/)
+
+    Collection of articles on Verilog and how to design and program FPGA's
+    has many examples and is very well explained.
+
+    -   [zipcpu topics](http://zipcpu.com/topics.html)
+
+    -   [zipcpu projects](http://zipcpu.com/projects.html)
+
+    -   [zipcpu github](https://github.com/ZipCPU)
+
+-   [ADIUVO Engineering](http://adiuvoengineering.com/)
+
+-   [FPGA 4 Student](http://www.fpga4student.com/)
+
+-   [FPGA 4 Fun](https://www.fpga4fun.com)
+
+-   [NANDLAND](https://www.nandland.com/articles/fpga-101-fpgas-for-beginners.html)
+
+-   [Digital VLSI Design](https://www.digitalvlsidesign.com/p/home.html)
+
+-   [Xilinx Training](https://www.xilinx.com/training.html)
+
+#### Free Books
+
+-   [Free Range VHDL](https://github.com/fabriziotappero/Free-Range-VHDL-book)
+
+-   [High Speed Serial IO book](https://fpgasite.wordpress.com/2016/04/07/high-speed-serial-io-book/)
+
+-   [Prototypical – The Emergence of FPGA prototyping for SoC Designs](https://fpgasite.wordpress.com/2016/06/23/prototypical-fpga-prototyping-free-book/)
+
+-   [FPGAs!? Now what?](https://fpgasite.wordpress.com/2016/04/14/fpgas-now-what-free-book/)
+
+-   [The Zynq Book](https://fpgasite.wordpress.com/2016/06/28/the-zynq-book-free/)
+
+-   [Introducing the Spartan 3E FPGA and VHDL](https://fpgasite.wordpress.com/2016/07/09/introducing-the-spartan-3e-fpga-and-vhdl-free-book/)
+
+#### Specific Topics
+
+-   [Getting started with FPGA](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/)
+
+-   [SDRAM tutorial in verilog](https://alchitry.com/blogs/tutorials/sdram-verilog)
+
+-   [Simple SDRAM Controller](http://hamsterworks.co.nz/mediawiki/index.php/Simple_SDRAM_Controller)
+
+## Verilog
+
+-   [Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
+
+-   [ASIC WORLD Verilog](http://www.asic-world.com/verilog/index.html)
+
+## VHDL
+
+-   [Designing a CPU in VHDL](http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/)
