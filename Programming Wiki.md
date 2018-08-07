@@ -35,6 +35,8 @@
 
 -   [Karan Mega Project List from github](https://github.com/karan/Projects)
 
+-   [Advent of Code](https://adventofcode.com/events)
+
 #### Computer Science Courses:
 
 -   [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
