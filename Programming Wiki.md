@@ -1,4 +1,5 @@
-# General Programming Topics:
+# Programming Wiki
+## General Programming Topics
 
 -   [Reddit - r/LearnProgramming wiki/faq](https://www.reddit.com/r/learnprogramming/wiki/faq)
 
@@ -16,7 +17,7 @@
 
     free books for every language you can think of.
 
-#### Programming Project and Practice Lists:
+### Programming Project and Practice Lists
 
 -   [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
 
@@ -37,15 +38,15 @@
 
 -   [Advent of Code](https://adventofcode.com/events)
 
-#### Computer Science Courses:
+### Computer Science Courses
 
 -   [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
 
     Also has links to many different topics some outside of programming.
 
-## Python: General Purpose Language
+## Python
 
-#### General Resources:
+### General Resources
 
 -   [Python 3.6 Docs](https://docs.python.org/3/)
 
@@ -61,7 +62,7 @@
 
     A curated list of awesome Python frameworks, libraries, software and resources.
 
-#### Online courses:
+### Online courses
 
 -   [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
@@ -73,7 +74,7 @@
 
 -   [Intermediate Python](http://book.pythontips.com/en/latest/)
 
-#### Youtube series:
+### Youtube series
 
 -   [Thenewboston](https://www.youtube.com/watch?v=HBxCHonP6Ro&list=PL6gx4Cwl9DGAcbMi1sH6oAMk4JHw91mC_)
 
@@ -82,21 +83,21 @@
 
 -   [Sentdex - Intermediate Python](https://www.youtube.com/playlist?list=PLQVvvaa0QuDfju7ADVp5W1GF9jVhjbX-_)
 
-#### Python Class outlines:
+### Python Class outlines
 
 -   [Python Training Class](https://github.com/girisagar46/PythonTrainingClass)
 
-#### Web Resources:
+### Web Resources
 
 -   [Intro to Python](https://overiq.com/python/3.4/intro-to-python/)
 
-#### Python Libraries:
+### Python Libraries
 
 -   [Matplotlib tutorial](https://www.dataquest.io/blog/matplotlib-tutorial/)
 
-## The C programming Language:
+## The C Programming Language
 
-#### Online Courses:
+### Online Courses
 
 -   [MIT opencourseware - Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
 
@@ -110,13 +111,13 @@
 
     like previous 2 (newer)
 
-#### Web Books:
+### Web Books
 
 -   [Learn C by building Lisp language interpreter](http://www.buildyourownlisp.com/)
 
 -   [C Programming - Wikibooks](https://en.wikibooks.org/wiki/C_Programming) - This is good
 
-## MATLAB: Numerical Computing
+## MATLAB
 
 -   [An Interactive Introduction to MATLAB](http://www.science.smith.edu/%7Ejcardell/Courses/EGR326/Intro-to-MATLAB.pdf) (PDF)
 
@@ -146,15 +147,25 @@
 
 -   [Physical Modeling in MATLAB](http://greenteapress.com/matlab/index.html)
 
-## ARM Assembly:
+## ARM Assembly
 
 -   <https://azeria-labs.com/>
 
 -   <https://www.coranac.com/tonc/text/asm.htm>
 
-# Hardware Description Languages / FPGA's
+## Hardware Description Languages / FPGA's
 
-#### General Resources/Articles:
+### Verilog
+
+-   [Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
+
+-   [ASIC WORLD Verilog](http://www.asic-world.com/verilog/index.html)
+
+### VHDL
+
+-   [Designing a CPU in VHDL](http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/)
+
+### General Resources/Articles
 
 -   [zipcpu.com](http://zipcpu.com/)
 
@@ -179,7 +190,7 @@
 
 -   [Xilinx Training](https://www.xilinx.com/training.html)
 
-#### Free Books
+### Free Books
 
 -   [Free Range VHDL](https://github.com/fabriziotappero/Free-Range-VHDL-book)
 
@@ -193,20 +204,10 @@
 
 -   [Introducing the Spartan 3E FPGA and VHDL](https://fpgasite.wordpress.com/2016/07/09/introducing-the-spartan-3e-fpga-and-vhdl-free-book/)
 
-#### Specific Topics
+### Specific Topics
 
 -   [Getting started with FPGA](https://numato.com/kb/learning-fpga-verilog-beginners-guide-part-1-introduction/)
 
 -   [SDRAM tutorial in verilog](https://alchitry.com/blogs/tutorials/sdram-verilog)
 
 -   [Simple SDRAM Controller](http://hamsterworks.co.nz/mediawiki/index.php/Simple_SDRAM_Controller)
-
-## Verilog
-
--   [Embedded Micro Verilog](https://embeddedmicro.com/pages/verilog)
-
--   [ASIC WORLD Verilog](http://www.asic-world.com/verilog/index.html)
-
-## VHDL
-
--   [Designing a CPU in VHDL](http://labs.domipheus.com/blog/designing-a-cpu-in-vhdl-part-1-rationale-tools-method/)
