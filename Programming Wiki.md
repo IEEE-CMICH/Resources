@@ -1,5 +1,5 @@
 # Programming Wiki
-[General Programming Topics](#general-programming-topics)
+[General Programming Topics and Resources](#general-programming-topics-and-resources)
 
 - [Programming Project and Practice Lists](#programming-project-and-practice-lists)
 
@@ -42,7 +42,7 @@
 
 - [Free Books](#free-books)
 
-## General Programming Topics
+## General Programming Topics and Resources
 
 -   [Reddit - r/LearnProgramming wiki/faq](https://www.reddit.com/r/learnprogramming/wiki/faq)
 
