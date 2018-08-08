@@ -17,6 +17,8 @@
 
 - [Web Resources](#web-resources)
 
+- [Python Books](#python-books)
+
 - [Libraries](#python-libraries)
 
 [The C Programming Language](#the-c-programming-language)
@@ -132,7 +134,20 @@
 
 ### Web Resources
 
+-   [Learn Python](http://www.learnpython.org)
+
 -   [Intro to Python](https://overiq.com/python/3.4/intro-to-python/)
+
+### Python Books
+-   [Automate the Boring Stuff with Python](https://automatetheboringstuff.com)
+
+-   [Build applications in Python the anti-textbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
+
+-   [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
+
+-   [Program Arcade Games With Python And Pygame](http://programarcadegames.com)
+
+-   [Big list of books (includes python 2)](https://www.reddit.com/r/learnpython/wiki/books)
 
 ### Python Libraries
 
