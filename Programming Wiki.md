@@ -1,4 +1,47 @@
 # Programming Wiki
+[General Programming Topics](#general-programming-topics)
+
+- [Programming Project and Practice Lists](#programming-project-and-practice-lists)
+
+- [Computer Science Courses](#computer-science-courses)
+
+[Python](#python)
+
+- [General Resources](#general-resources)
+
+- [Online courses](#python-online-courses)
+
+- [YouTube Series](#youtube-series)
+
+- [Python Class Outlines](#python-class-outlines)
+
+- [Web Resources](#web-resources)
+
+- [Libraries](#python-libraries)
+
+[The C Programming Language](#the-c-programming-language)
+
+- [Online courses](#c-online-courses)
+
+- [Web Books](#web-books)
+
+
+[MATLAB](#matlab)
+
+[ARM Assembly](#arm-assembly)
+
+[MATLAB](#matlab)
+
+[Hardware Description Languages / FPGA's](#hardware-description-languages--fpgas)
+
+- [Verilog](#verilog)
+
+- [VHDL](#vhdl)
+
+- [Specific Topics](#specific-topics)
+
+- [Free Books](#free-books)
+
 ## General Programming Topics
 
 -   [Reddit - r/LearnProgramming wiki/faq](https://www.reddit.com/r/learnprogramming/wiki/faq)
@@ -62,7 +105,7 @@
 
     A curated list of awesome Python frameworks, libraries, software and resources.
 
-### Online courses
+### Python Online courses
 
 -   [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
 
@@ -97,7 +140,7 @@
 
 ## The C Programming Language
 
-### Online Courses
+### C Online Courses
 
 -   [MIT opencourseware - Practical Programming in C](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-087-practical-programming-in-c-january-iap-2010/)
 
