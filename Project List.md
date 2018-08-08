@@ -1,9 +1,9 @@
-## Projects:
+# IEEE Student Project Ideas and Inspiration
 
 Refer to the links below for project inspiration. Don't feel limited to just
 these projects or list. Anything you can think of or find can is perfectly fine.
 
-#### Basic Tutorials/Tutorial Lists:
+## Basic Tutorials/Tutorial Lists
 
 -   [Built In Examples/Tutorials of Arduino](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
@@ -12,8 +12,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 -   [GreatScott! Electronics Basics - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
 
 
-#### Project Websites:
-
+## Project Websites
 -   [Arduino Project Hub](https://create.arduino.cc/projecthub)
 
 -   [hackaday.io - Projects](https://hackaday.io/projects)
@@ -38,7 +37,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
     Paid PCB layout video courses. There is a free course on the site called Getting to Blinky 4.0.
 
-#### Project Ideas:
+## Single Project Ideas
 -   [Arduino Hourglass](https://www.instagram.com/p/BmFQoqdDryU/?utm_source=ig_share_sheet&igshid=i360sjd3vpwa)
 
 -   [Obstacle avoiding robot arduino](https://www.electronicshub.org/obstacle-avoiding-robot-arduino/)
@@ -71,7 +70,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
 -   [The Arduino Synthesizer](http://www.instructables.com/id/The-Arduino-Synthesizer/)
 
-##### Adventurous Project Ideas:
+## Adventurous Project Ideas
 
 -   [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
 
