@@ -82,7 +82,6 @@
 -   [Karan Mega Project List from github](https://github.com/karan/Projects)
 
 -   [Advent of Code](https://adventofcode.com/events)
-
 ### Computer Science Courses
 
 -   [Open Source Society University - Computer Science](https://github.com/ossu/computer-science)
@@ -100,6 +99,8 @@
 -   [Reddit - r/LearnPython/wiki](https://www.reddit.com/r/learnpython/wiki/index)
 
     Another good resource and FAQ for python.
+    
+-   [Learn X in Y minutes, Where X=python3](https://learnxinyminutes.com/docs/python3/)
 
 -   [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
 
