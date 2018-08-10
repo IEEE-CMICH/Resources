@@ -25,6 +25,8 @@
 
 - [Online courses](#c-online-courses)
 
+- [Youtube Channels](#youtube-channels)
+
 - [Web Books](#web-books)
 
 
@@ -169,6 +171,10 @@
 -   [MIT opencourseware - Effective programming in c and c++](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-s096-effective-programming-in-c-and-c-january-iap-2014/)
 
     like previous 2 (newer)
+
+### Youtube Channels
+
+-   [Jacob Sorber](https://www.youtube.com/watch?v=a8mPKBxQ9No)
 
 ### Web Books
 
