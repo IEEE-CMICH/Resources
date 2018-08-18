@@ -70,6 +70,14 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
 -   [The Arduino Synthesizer](http://www.instructables.com/id/The-Arduino-Synthesizer/)
 
+    Simple 6-9 Chip Computers running BASIC
+
+    -   [Simple Z80 Computer](http://searle.hostei.com/grant/z80/SimpleZ80.html)
+
+    -   [Simple 6502 Computer](http://searle.hostei.com/grant/6502/Simple6502.html)
+
+    -   [Simple 6809 Computer](http://searle.hostei.com/grant/6809/Simple6809.html)
+
 ## Adventurous Project Ideas
 
 -   [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
@@ -79,3 +87,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 -   [DIY Sphere Robot](http://www.instructables.com/id/DIY-Sphere-Robot/)
 
 -   [MIT build a small radar system capable of sensing range, doppler, etc](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
+
+-   [Build A 8bit Computer From Scratch](https://eater.net/8bit/)
+
+    - [Build Videos](https://www.youtube.com/user/eaterbc)
