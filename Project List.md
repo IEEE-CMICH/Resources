@@ -17,6 +17,8 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
 -   [hackaday.io - Projects](https://hackaday.io/projects)
 
+-   [hackaday.io - Contests](https://hackaday.io/contests)
+    
 -   [GreatScott! Electronics Projects - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7dGPxb9CFtxwbgzLNaaj1Oe)
 
 -   [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/)
@@ -78,6 +80,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
     -   [Simple 6809 Computer](http://searle.hostei.com/grant/6809/Simple6809.html)
 
+-   [Binary Clock](https://hackaday.io/project/9783-binaryclock)
 ## Adventurous Project Ideas
 
 -   [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
