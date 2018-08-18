@@ -69,6 +69,8 @@
 
 -   [More free books](https://books.goalkicker.com)
 
+-   [Design Patterns](https://refactoring.guru/design-patterns/catalog)
+
 ### Programming Project and Practice Lists
 
 -   [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
