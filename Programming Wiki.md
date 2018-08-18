@@ -71,6 +71,8 @@
 
 -   [Design Patterns](https://refactoring.guru/design-patterns/catalog)
 
+-   [Compiler Explorer](https://godbolt.org)
+
 ### Programming Project and Practice Lists
 
 -   [IEEEXtereme Practice Task](https://csacademy.com/ieeextreme-practice/tasks/)
@@ -78,11 +80,11 @@
 -   [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 
 
--   [	Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+-   [Invent with Python Blog, "I need Practice Programming" 49 game clones](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
 
--   [	Stanford's Nifty Assignments](http://nifty.stanford.edu/)
+-   [Stanford's Nifty Assignments](http://nifty.stanford.edu/)
 
--   [	Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
+-   [Michigan State  - PracticeOfComputingUsingPython](http://www.cse.msu.edu/~cse231/PracticeOfComputingUsingPython/)
 
 -   [Project Based Learning](https://github.com/tuvtran/project-based-learning)
 
