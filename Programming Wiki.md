@@ -1,4 +1,5 @@
 # Programming Wiki
+### Contents
 [General Programming Topics and Resources](#general-programming-topics-and-resources)
 
 - [Programming Project and Practice Lists](#programming-project-and-practice-lists)
@@ -15,13 +16,15 @@
 
 - [Python Class Outlines](#python-class-outlines)
 
-- [Web Resources](#web-resources)
+- [Web Resources](#python-web-resources)
 
 - [Python Books](#python-books)
 
 - [Libraries](#python-libraries)
 
 [The C Programming Language](#the-c-programming-language)
+
+- [Web Resources](#c-web-resources)
 
 - [Online courses](#c-online-courses)
 
@@ -63,6 +66,8 @@
 -   [A bunch of free programming books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md#c)
 
     free books for every language you can think of.
+
+-   [More free books](https://books.goalkicker.com)
 
 ### Programming Project and Practice Lists
 
@@ -110,6 +115,9 @@
 
     A curated list of awesome Python frameworks, libraries, software and resources.
 
+-   [Intermediate Python](http://book.pythontips.com/en/latest/)
+
+
 ### Python Online courses
 
 -   [Mitx - Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-computer-science-mitx-6-00-1x-11)
@@ -120,7 +128,6 @@
 
     part 2 of above
 
--   [Intermediate Python](http://book.pythontips.com/en/latest/)
 
 ### Youtube series
 
@@ -135,7 +142,7 @@
 
 -   [Python Training Class](https://github.com/girisagar46/PythonTrainingClass)
 
-### Web Resources
+### Python Web Resources
 
 -   [Learn Python](http://www.learnpython.org)
 
@@ -157,6 +164,14 @@
 -   [Matplotlib tutorial](https://www.dataquest.io/blog/matplotlib-tutorial/)
 
 ## The C Programming Language
+
+### C Web Resources
+
+-   [How to C](https://matt.sh/howto-c)
+
+-   [C gibberish ↔ English](https://cdecl.org)
+
+-   [Writing Larger Programs](https://users.cs.cf.ac.uk/Dave.Marshall/C/node35.html#fig:mod)
 
 ### C Online Courses
 
@@ -180,7 +195,9 @@
 
 -   [Learn C by building Lisp language interpreter](http://www.buildyourownlisp.com/)
 
--   [C Programming - Wikibooks](https://en.wikibooks.org/wiki/C_Programming) - This is good
+-   [C Programming - Wikibooks](https://en.wikibooks.org/wiki/C_Programming)
+
+-   [C Programming Language, 2nd Edition](https://www.amazon.com/Programming-Language-2nd-Brian-Kernighan/dp/0131103628)
 
 ## MATLAB
 
