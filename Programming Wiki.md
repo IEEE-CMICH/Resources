@@ -115,6 +115,8 @@
 
 -   [The Hitchhiker’s Guide to Python!](https://python-guide.readthedocs.io/en/latest/)
 
+    Good python handbook with lots of resourses.
+
 -   [Awesome Python](https://github.com/vinta/awesome-python)
 
     A curated list of awesome Python frameworks, libraries, software and resources.
@@ -158,6 +160,8 @@
 -   [Build applications in Python the anti-textbook](https://github.com/thewhitetulip/build-app-with-python-antitextbook)
 
 -   [How to Think Like a Computer Scientist](http://www.openbookproject.net/thinkcs/python/english3e/)
+
+-   [Problem Solving with Algorithms and Data Structures using Python](http://www.interactivepython.org/courselib/static/pythonds/index.html)
 
 -   [Program Arcade Games With Python And Pygame](http://programarcadegames.com)
 
@@ -282,11 +286,7 @@
 
 -   [High Speed Serial IO book](https://fpgasite.wordpress.com/2016/04/07/high-speed-serial-io-book/)
 
--   [Prototypical – The Emergence of FPGA prototyping for SoC Designs](https://fpgasite.wordpress.com/2016/06/23/prototypical-fpga-prototyping-free-book/)
-
 -   [FPGAs!? Now what?](https://fpgasite.wordpress.com/2016/04/14/fpgas-now-what-free-book/)
-
--   [The Zynq Book](https://fpgasite.wordpress.com/2016/06/28/the-zynq-book-free/)
 
 -   [Introducing the Spartan 3E FPGA and VHDL](https://fpgasite.wordpress.com/2016/07/09/introducing-the-spartan-3e-fpga-and-vhdl-free-book/)
 
