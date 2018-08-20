@@ -177,6 +177,10 @@
 
 -   [How to C](https://matt.sh/howto-c)
 
+-   [Programming in C: A Tutorial](https://www.lysator.liu.se/c/bwk-tutor.html)
+
+-   [EMBEDDED WEDNESDAYS: GETTING STARTED IN EMBEDDED SYSTEMS](https://www.embedded.fm/blog/embedded-wednesdays)
+
 -   [C gibberish ↔ English](https://cdecl.org)
 
 -   [Writing Larger Programs](https://users.cs.cf.ac.uk/Dave.Marshall/C/node35.html#fig:mod)
