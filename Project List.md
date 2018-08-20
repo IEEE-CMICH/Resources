@@ -7,7 +7,7 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
 -   [Built In Examples/Tutorials of Arduino](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
 
--   [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/) - has basic tutorials
+-   [101+ Raspberry Pi Projects](https://www.electronicshub.org/raspberry-pi-projects/) - Has basic tutorials and more advance stuff
 
 -   [GreatScott! Electronics Basics - Youtube Playlist](https://www.youtube.com/playlist?list=PLAROrg3NQn7cyu01HpOv5BWo217XWBZu0)
 
