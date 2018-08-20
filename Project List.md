@@ -81,6 +81,10 @@ these projects or list. Anything you can think of or find can is perfectly fine.
     -   [Simple 6809 Computer](http://searle.hostei.com/grant/6809/Simple6809.html)
 
 -   [Binary Clock](https://hackaday.io/project/9783-binaryclock)
+
+-   [International Space Station Orbit Tracker](https://www.youtube.com/watch?v=sIE0mcOGnms)
+
+-   [Star Finding/Tracking Telecope Mount](https://hackaday.io/project/159342-pisolaris)
 ## Adventurous Project Ideas
 
 -   [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
