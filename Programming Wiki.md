@@ -271,18 +271,20 @@
     -   [zipcpu projects](http://zipcpu.com/projects.html)
 
     -   [zipcpu github](https://github.com/ZipCPU)
-
+    
 -   [ADIUVO Engineering](http://adiuvoengineering.com/)
 
 -   [FPGA 4 Student](http://www.fpga4student.com/)
 
 -   [FPGA 4 Fun](https://www.fpga4fun.com)
 
--   [NANDLAND](https://www.nandland.com/articles/fpga-101-fpgas-for-beginners.html)
+-   [NANDLAND](https://www.nandland.com)
 
 -   [Digital VLSI Design](https://www.digitalvlsidesign.com/p/home.html)
 
 -   [Xilinx Training](https://www.xilinx.com/training.html)
+
+-   [ECE 5760 Cornell](http://people.ece.cornell.edu/land/courses/ece5760/)
 
 ### Free Books
 
