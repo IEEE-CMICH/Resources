@@ -66,10 +66,6 @@ these projects or list. Anything you can think of or find can is perfectly fine.
 
 -   [DIY Arduino Nebulophone Synth](http://www.instructables.com/id/DIY-Arduino-Nebulophone-Synth/)
 
--   [Wireless Multi Channel Voice Controlled Electrical](http://www.instructables.com/id/Wireless-Multi-Channel-Voice-Controlled-Electrical/)
-
--   [Raspberry Pi Portable Games Console](http://www.instructables.com/id/Raspberry-Pi-Portable-Games-Console/)
-
 -   [The Arduino Synthesizer](http://www.instructables.com/id/The-Arduino-Synthesizer/)
 
     Simple 6-9 Chip Computers running BASIC
