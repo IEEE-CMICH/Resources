@@ -1,7 +1,7 @@
 # IEEE Student Project Ideas and Inspiration
 
 Refer to the links below for project inspiration. Don't feel limited to just
-these projects or list. Anything you can think of or find can is perfectly fine.
+these projects or lists. Anything you can think of or can find can is perfectly fine.
 
 ## Basic Tutorials/Tutorial Lists
 
