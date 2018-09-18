@@ -60,13 +60,17 @@ these projects or lists. Anything you can think of or can find can is perfectly 
 
 -   [LED Umbrella with Arduino](http://www.instructables.com/id/LED-Umbrella-with-Arduino/)
 
--   [Automated Cat Laser](http://www.instructables.com/id/CatBot-Automated-Cat-Laser/)
-
 -   [Secret Knock Detecting Door Lock](http://www.instructables.com/id/Secret-Knock-Detecting-Door-Lock/)
 
 -   [DIY Arduino Nebulophone Synth](http://www.instructables.com/id/DIY-Arduino-Nebulophone-Synth/)
 
 -   [The Arduino Synthesizer](http://www.instructables.com/id/The-Arduino-Synthesizer/)
+
+-   [Binary Clock](https://hackaday.io/project/9783-binaryclock)
+
+-   [International Space Station Orbit Tracker](https://www.youtube.com/watch?v=sIE0mcOGnms)
+
+-   [Star Finding/Tracking Telecope Mount](https://hackaday.io/project/159342-pisolaris)
 
     Simple 6-9 Chip Computers running BASIC
 
@@ -76,18 +80,9 @@ these projects or lists. Anything you can think of or can find can is perfectly 
 
     -   [Simple 6809 Computer](http://searle.hostei.com/grant/6809/Simple6809.html)
 
--   [Binary Clock](https://hackaday.io/project/9783-binaryclock)
-
--   [International Space Station Orbit Tracker](https://www.youtube.com/watch?v=sIE0mcOGnms)
-
--   [Star Finding/Tracking Telecope Mount](https://hackaday.io/project/159342-pisolaris)
-## Adventurous Project Ideas
-
 -   [Capers II a Hexapod Robot](http://www.instructables.com/id/Capers-II-a-Hexapod-Robot/)
 
 -   [QUATTRO the Arduino Quadruped Robot](http://www.instructables.com/id/QUATTRO-the-Arduino-Quadruped-Robot/)
-
--   [DIY Sphere Robot](http://www.instructables.com/id/DIY-Sphere-Robot/)
 
 -   [MIT build a small radar system capable of sensing range, doppler, etc](https://ocw.mit.edu/resources/res-ll-003-build-a-small-radar-system-capable-of-sensing-range-doppler-and-synthetic-aperture-radar-imaging-january-iap-2011/)
 
