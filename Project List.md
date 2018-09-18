@@ -72,7 +72,7 @@ these projects or lists. Anything you can think of or can find can is perfectly 
 
 -   [Star Finding/Tracking Telecope Mount](https://hackaday.io/project/159342-pisolaris)
 
-    Simple 6-9 Chip Computers running BASIC
+-   Simple 6-9 Chip Computers running BASIC
 
     -   [Simple Z80 Computer](http://searle.hostei.com/grant/z80/SimpleZ80.html)
 
